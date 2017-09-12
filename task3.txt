@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css.map">
+
+<link rel="stylesheet" href="style1.css">
+
+</head>
+<body>
+
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark1 height1">
+<div class="container">
+<ul class="mr-auto">
+  <a class="navbar-brand padding font2" href="#"> AX<span class="padding orange font3">IT</span></a>
+  </ul>
+  <ul class="ml-auto">
+  <button class="navbar-toggler padding" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <span class="nav-item nav-link2 active navbarr" href="#">Features <span class="sr-only">(current)</span></span>
+      <span class="nav-item nav-link2 active navbarr" href="#">About <span class="sr-only">(current)</span></span>
+      <span class="nav-item nav-link2 active navbarr" href="#">Pricing <span class="sr-only">(current)</span></span>
+      <span class="nav-item nav-link2 active navbarr" href="#">Reviews <span class="sr-only">(current)</span></span>
+      <span class="nav-item nav-link2 active navbarr" href="#">Contact <span class="sr-only">(current)</span></span>
+      
+    </div>
+  </div>
+  </ul>
+  </div>
+</nav>
+<div class="row1">
+<div class="container">
+ <div class="row white">
+
+  <div class="col-6 padding11"> <span class="white font font2">AX</span><span class="orange padding2 font">IT</span> </br>
+ <span class="white font4"> MODERN AXURE TEMPLATE FOR BEAUTIFUL PROTOTYPES </span>
+ <hr class="hr1">
+ <p class="font5"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </br> tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </br> minim veniam, quis nostrud exercitation ullamco </p> </br>
+ <button type="button" class="btn btn-sharp btn-transparent white">Download</button>
+ </div>
+  
+  <div class="col-6">
+ 
+        <div id="logbox"  >
+            <form id="signup" method="post" action="/signup" >
+
+           
+                <h2 class="height2 font2">Try Your <span class="orange font2"> Free </span> Trial Today</h2> 
+				 
+                <input name="user[name]" type="text" placeholder="Name" required="required" class="input pass"/>
+                <input name="user[email]" type="email" placeholder="Email address" class="input pass"/>
+                <input name="user[password2]" type="password" placeholder="Password" required="required" class="input pass"/>
+               
+                <input type="submit" value="Get Started" class="inputButton"/>
+                
+
+            </form>
+        </div>
+    </div>
+    <!--col-md-6-->
+
+
+</div>
+</div>
+
+</div>
+ 
+
+
+<div class="height3">
+<div class="container">
+<div class="row">
+
+    <div class="col-5">
+    <p> <span class="font2"> Social Media </span> <br>
+     <span class="font6">  Lorem ipsum dolor sit amet, consectetur adipiscing elit <br> sed do eiusmod tempor incididunt </span> </p>
+    </div>
+    <div class="col-7 padding12">
+     <i class="fa fa-facebook padding3 grey2" style="font-size:40px;"></i>
+     <i class="fa fa-twitter padding3 grey2" style="font-size:40px;"></i>
+      <i class="fa fa-google-plus padding3 grey2" style="font-size:40px;"></i>
+      <i class="fa fa-pinterest padding3 grey2" style="font-size:40px;"></i>
+      <i class="fa fa-instagram padding3 grey2" style="font-size:40px;"></i>
+      <i class="fa fa-stumbleupon padding3 grey2" style="font-size:40px;"></i>
+       <i class="fa fa-wifi padding3 grey2" style="font-size:40px;"></i>
+    </div>
+    </div>
+  </div>
+</div>
+
+
+
+  <div class="row grey height4 inset">
+    
+      <div class="col-2 padding10 padding14">
+      <nav class="nav flex-column">
+ <div class="sidebar sidebar1"> <a class="nav-link center padding13 white font2" href="#">TAB 1</a> </div>
+ <div class="sidebar grey3"> <a class="nav-link center padding13 white font2" href="#">TAB 2</a> </div>
+ <div class="sidebar grey3"> <a class="nav-link center padding13 white font2" href="#">TAB 3</a> </div>
+
+</nav>
+      </div>
+<div class="col-5 padding10 padding14">
+<p class="font2 font7 padding15"> Tabs with soft transitioning effet </p>
+<p class="font6"> Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt  Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt  Lorem ipsum dolor sit amet, consectetur adipiscing elit </p> 
+<p class="font6 padding15"> Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt  </p>
+ <button type="button" class="btn btn-orange white">Download</button>
+      </div>
+      <div class="col-5 padding14 padding10">
+
+      <img  src="2.jpg" >
+      </div>
+  </div>
+
+
+
+<div class="container">
+  <div class="row height4">
+  
+    <div class="col-6">
+     <img class="padding7" src="3.jpg" >
+    </div>
+    <div class="col-6 padding5 padding17">
+      <p class="font2 font7"> Sub list Section </p>
+       <hr class="hr1 orange2">
+       <p class="font6 padding15"> Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt  Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+<p>
+       <div class="row">
+       <div class="col-2">
+       <i class="fa fa-cloud-upload orange" style="font-size:20px;"></i> 
+       <div class="height5"> </div>
+       <i class="fa fa-cloud-download orange" style="font-size:20px;"></i>
+       </div> 
+       <div class="col-10">
+       <span class="font2"> Title </span> <br>
+       <p class="font6"> Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt </p>
+        <span class="font2"> Title </span> <br>
+       <p class="font6">  Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt  </p>
+       </div>
+       
+       </div>
+       </p>
+
+    </div>
+      </div>
+      </div>
+
+
+
+
+  <div class="row grey height4">
+    <div class="col-6 padding6">
+     <p class="font2 font7"> Standard Picture Section </p>
+       <hr class=" hr1 orange2">
+       <p class="font6"> Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt  Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt  Lorem ipsum dolor sit amet, consectetur adipiscing elit </p> 
+<p class="font6 padding15"> Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt  </p>
+    </div>
+    <div class="col-6 padding5">
+       <img  src="4.jpg" >
+    </div>
+    
+  </div>
+  
+
+
+<div class="row height8">
+  <div class="container">
+  <div class="height6">
+  <p class="center padding7 font8"> WHY THIS IS AWESOME </p> 
+  <hr  class="hr2">
+  <p> </p>
+  </div>
+  <div class="height7">
+  <div class="row">
+    <div class="col-4">
+   <div class="padding18 orange">
+      <i class="fa fa-lightbulb-o padding8 " style="font-size:40px;"></i>
+      </div>
+    
+       <p class="font2 font7 padding19"> Thoughtful Design</p>
+       <p  class="font9 center"> Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt  Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do  </p>
+    </div>
+    <div class="col-4">
+    
+     <div class="padding21 orange">
+      <i class="fa fa-keyboard-o padding20 " style="font-size:40px;"></i> 
+      </div>
+       <p class="font2 font7 padding19"> Well Crafted</p>
+       <p  class="font9 center"> Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt  Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do  </p>
+    </div>
+
+    <div class="col-4">
+    
+      <div class="padding18 orange">
+      <i class="fa fa-bolt padding8 " style="font-size:40px;"></i>
+      </div>
+      
+      <p class="font2 font7 padding19"> Easy to Customize</p>
+      <p  class="font9 center"> Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt  Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do  </p>
+    </div>
+  </div>
+  </div>
+  </div>
+  </div>
+
+<div class="row grey height8">
+
+  <div class="container">
+  
+  <p class="center padding7 font8"> PRICING OPTIONS </p> 
+  <hr  class="hr2">
+  <p class="center font6">  Lorem ipsum dolor sit amet elit, sitametelit.</p>
+  <div class="row">
+    <div class="col-4 padding13">
+      <div class="card" style="width: 20rem;">
+  
+   <ul class="list-group list-group-flush"> 
+<li class="list-group-item center grey4 height1 white font2">Basic</li>
+    <li class="list-group-item1 center grey4 white height9 font10"><span class="font8">$</span><span class="font2 font11 padding22">0</span>
+    <p class="font9"> Free for Life </p>
+    </li>
+    
+   </ul>
+  <div class="orange3 height10"></div>
+  <ul class="list-group list-group-flush">
+  
+    <li class="list-group-item center font6 height11">1 GB OF SPACE</li>
+    <li class="list-group-item center font6 height11">10 GB OF BANDWIDTH</li>
+    <li class="list-group-item center font6 height11">3 WEBSITES</li>
+    <li class="list-group-item center font6 height11">BASIC CUSTOMIZATION</li>
+    <li class="list-group-item center font6 height11">WORDPRESS INTEGRATION</li>
+    <li class="list-group-item center font6 height11">EMAIL SUPPORT</li>
+  </ul>
+  
+</div>
+    </div>
+    <div class="col-4">
+     <div class="card" style="width: 20rem;">
+  
+   <ul class="list-group list-group-flush"> 
+<li class="list-group-item center grey4 height1 white font2">Professional</li>
+    <li class="list-group-item1 center grey4 white height9 font10 "><span class="font8">$</span><span class="font2 font11 padding22">19</span>
+ <p class="font9"> Monthly Payment </p>
+    </li>
+    
+   </ul>
+  <div class="orange3 height12 center white font2 padding20">OUR MOST POPULAR</div>
+  <ul class="list-group list-group-flush">
+  
+    <li class="list-group-item center font6 height11">1 GB OF SPACE</li>
+    <li class="list-group-item center font6 height11">10 GB OF BANDWIDTH</li>
+    <li class="list-group-item center font6 height11">3 WEBSITES</li>
+    <li class="list-group-item center font6 height11">BASIC CUSTOMIZATION</li>
+    <li class="list-group-item center font6 height11">WORDPRESS INTEGRATION</li>
+    <li class="list-group-item center font6 height11">EMAIL SUPPORT</li>
+  </ul>
+  
+</div>
+</div>
+
+    
+    <div class="col-4 padding13">
+     <div class="card" style="width: 20rem;">
+  
+   <ul class="list-group list-group-flush"> 
+<li class="list-group-item center grey4 height1 white font2">Enterprise</li>
+    <li class="list-group-item1 center grey4 white height9 font10 "><span class="font8">$</span><span class="font2 font11 padding22">70</span>
+ <p class="font9"> Monthly Payment </p>
+    </li>
+   
+   </ul>
+  <div class="orange3 height10"></div>
+  <ul class="list-group list-group-flush">
+  
+    <li class="list-group-item center font6 height11">1 GB OF SPACE</li>
+    <li class="list-group-item center font6 height11">10 GB OF BANDWIDTH</li>
+    <li class="list-group-item center font6 height11">3 WEBSITES</li>
+    <li class="list-group-item center font6 height11">BASIC CUSTOMIZATION</li>
+    <li class="list-group-item center font6 height11">WORDPRESS INTEGRATION</li>
+    <li class="list-group-item center font6 height11">EMAIL SUPPORT</li>
+  </ul>
+  
+</div>
+    </div>
+  </div>
+  </div>
+  </div>
+
+
+<div class="row height4">
+  <div class="container">
+  
+  <p class="center padding7 font8"> WHAT OUR COSTUMERS ARE SAYING </p> 
+  <hr  class="hr2">
+ <p class="center font6">  Lorem ipsum dolor sit amet elit, sitametelit.</p>
+  <div class="row">
+    <div class="col-4">
+  <div class="popover-example"> <!-- NEW -->
+  <div class="popover bottom grey5 height13 card1">
+    <div class="arrow"></div>
+    <div class="popover-content">
+      <p class="font9 padding11 padding23">Sed posuere consectetur est at lobortis. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+    </div>
+  </div>
+</div>
+<div class="row">
+<div class="col-4">
+	<img class="img1 padding24" src="6.jpg">
+</div>
+<div class="col-8 padding25">
+	<span class="font2 font12"> Jeremy H. </span> </br>
+   <span class="font9 padding26"> Manager </span>
+</div>
+</div>
+    </div>
+    <div class="col-4">
+     	<div class="popover-example"> <!-- NEW -->
+  <div class="popover bottom grey5 height13 card1">
+    <div class="arrow"></div>
+    <div class="popover-content">
+      <p class="font9 padding11 padding23">Sed posuere consectetur est at lobortis. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+    </div>
+  </div>
+</div>
+<div class="row">
+<div class="col-4">
+	<img class="img1 padding24" src="6.jpg">
+</div>
+<div class="col-8 padding25">
+	<span class="font2 font12"> John S. </span> </br>
+   <span class="font9 padding26"> Freelancer </span>
+</div>
+</div>
+    </div>
+    <div class="col-4">
+      <div class="popover-example"> <!-- NEW -->
+  <div class="popover bottom grey5 height13 card1">
+    <div class="arrow"></div>
+    <div class="popover-content">
+      <p class="font9 padding11 padding23">Sed posuere consectetur est at lobortis. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+    </div>
+  </div>
+</div>
+<div class="row">
+<div class="col-4">
+	<img class="img1 padding24" src="6.jpg">
+</div>
+<div class="col-8 padding25">
+	<span class="font2 font12"> Susan W. </span> </br>
+   <span class="font9 padding26"> Photographer </span>
+	
+</div>
+</div>
+    </div>
+  </div>
+  </div>
+  </div>
+
+
+<div class="stylishrow">
+   <div class="row">
+
+<div class="container">
+  
+    <p class="center white font8 padding27"> STYLISH AXURE DESIGN</p> 
+  <hr  class="hr2 white2">
+  <p class="grey6 center"> Use the sections you need remove the ones you don't. Create gorgeous prototypes faster than ever! </p>
+  <div style="text-align:center">
+  <div class="height14"></div>
+   <button type="button" class="btn btn-sharp btn-transparent white">Download</button>
+
+   </div>
+  </div>
+</div>
+</div>
+
+
+<div class="row height4">
+  <div class="container">
+
+  <p class="center padding7 font8"> CONTACT US </p> 
+  <hr  class="hr2">
+  <p class="center font6">  Lorem ipsum dolor sit amet elit, sitametelit.</p>
+  <div class="row">
+<div class="col-6">
+
+<input name="user[name]" type="text" placeholder="Name" required="required" class="input1 pass font13"/>
+<div class="height15"></div>
+ <input name="user[email]" type="email" placeholder="Email address" class="input1 pass"/>
+ <div class="height15"></div>
+ <input name="user[password2]" type="password" placeholder="Subject" required="required" class="input1 pass"/>
+</div>
+
+<div class="col-6">
+
+<input type="text" placeholder="Message" required="required" class="input2 pass" style="direction: ltr;"/>
+
+</div>
+
+  </div>
+  <div style="text-align:center">
+<button type="button" class="btn btn-orange white">Send Message</button>
+
+ </div>
+  </div>
+  </div>
+
+  <div class="row bg-dark1 height16">
+
+     <i class="fa fa-facebook padding9 padding11 grey7" style="font-size:25px;"></i> 
+     <i class="fa fa-twitter padding23 padding11 grey7" style="font-size:25px;"></i>
+      <i class="fa fa-google-plus padding23 padding11 grey7" style="font-size:25px;"></i>
+      <i class="fa fa-pinterest padding23 padding11 grey7" style="font-size:25px;"></i>
+      <i class="fa fa-instagram padding23 padding11 grey7" style="font-size:25px;"></i>
+      <i class="fa fa-stumbleupon padding23 padding11 grey7" style="font-size:25px;"></i>
+       <i class="fa fa-wifi padding23 padding11 grey7" style="font-size:25px;"></i> 
+ 
+      
+   <div class="heigh11"> </div> 
+   <p class="grey7 copyright"> <i class="fa fa-copyright" style="font-size:13px;"></i> 2015 Axure Themes</p>
+ </div>
+
+
+</body>
+</html>
